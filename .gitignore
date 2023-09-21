@@ -1,0 +1,5 @@
+# local compose deployment
+.env
+.creds
+jenkins_agent*
+jenkins_id*
